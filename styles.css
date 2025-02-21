@@ -74,6 +74,21 @@ button:hover {
     gap: 10px;
 }
 
+/* Top container */
+.dominant-colors {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .color-square {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 5px;
+  }
+
 /* Centralizar imagens */
 .top-container {
     display: flex;
