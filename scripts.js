@@ -136,6 +136,7 @@ function height(height_f){
         conversionh.toFixed(1);
     }
     else{
-        conversionh = height_f;
+        conversionh = height_f / 10;
+        
     }
 }
