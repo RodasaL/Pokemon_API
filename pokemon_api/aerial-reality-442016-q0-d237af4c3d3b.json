@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-reality-442016-q0",
+  "private_key_id": "d237af4c3d3bf8e9535ed7d76f5fcc2a34a0d0bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqGUL1DQw5rcSb\nmt95zE2uWEC7Fx+4BBTGtjJEV96DP3j9I3V5W0aeGPBFcZfbThptDu7cMazHw5ab\nT+EfmNkyaTgjME6foht/ba9dC7xD0ojNAz0fpfCzTSk/8irtdgaorDz4ugXU2Se4\nkx2UZl/InXj/hMQy/QGLV8TKQnNY/M3knSf1QLKl9OgGCUzhCf/OLaERO8aIUK8Q\nGsPTvhPMpIpsz+ROFxXu4TuyDLKATOUY0EF+vJJ2WOo1xIp/+K1zyha8s2tIriCY\nJbHreIjtXeOVSEpsPOBFlaqD9xwyt5tp1b3aPNb+/13y4Ukv4kjxgTlxkzQAEFex\nICBYKqcDAgMBAAECggEAEhnKFEWlLWYea+iZK17gTVM64C3fxDc69sJgqwEmvpS8\njUN+tsFNzHke6GTkIgQ3r69NH8Vxe3iGyFRBwpkDU+f6f1QeqcIYZwEHDkG3cQgw\nYpCbqoiACrSFVTax9r7+imh5vIYfJL1PCscs+KPEQZbwT1CTiFGAHpHicRuNJsTj\nwFwB85SGk+aCP6fYoLJv2wOVf83StUXqwXGZSue7vAWLmd6LusjhuzlraI5Ml2Pz\nsOoBuCsPc8T6SQhMfNIYs2fH5zXrLD2tQrI7VLlyxTHAzTjrSQpLhaf0CnMbM3rf\n//IKm13zGQZ4jtMbnpUROmfmNaI0OX8Ro6uK077jcQKBgQDU0f4LnkXkHt7f4V2Z\nCBtj02Pp8yUSX/Ag/F7o70iiWVEMu4bVVf354FZ+RvL+XAtK8C2FDmWkAdhVpZQB\nnldXQ3k5NQS2t754pSkhFCjstaas6vZMAPn5DBP3wSnPxXlWSlqFbf3AFUydDt27\nsWN+h+eq4FKYPP8floJkx3IvHQKBgQDMnEjWBdaIntUzTjhuAl9tv30fwdSJnCFq\npA5GD4QaULNP5xf1TFtPvMnH2CIatuuqknBGv05bFGKyvJWlQIj685VjLu35t73m\nC4ao0BZwJQyFxX6J1it2iJgssHq4CEtInebA/1nLsxfJ34w8dGmB0ujlgi/f+dx3\nET++Fmu0nwKBgBONW16r4tXrdCRzawr1MLcCI8rJmN1QTRpqtTmHSlAIDqcxz1ho\nNxYu4yNk10xBHpR67mOsB/CCbuKnfKqNZo7Q1yFHWrCCvxAMdHPii0P8CF0YlRo0\neMLFtkvrxjCdfuFLoXdivI5aJpjDVeG5kV99ku4i/9OWvwWi6UXjAP2NAoGANxUf\nupZJwe/Yf35gTKVQ4W+6lJEO0Zj5mgbeXNgSfS8ahrk0xvGuZ1HwlF9IFx8FZJ8V\noMYhpv1e8LU6KAmulrh6j//zStW/Rq31q36Re9FNhLm9Lgg9HST6qpU8BE0fT0ZK\n98wGdYMaNVt8Gk5QlQWdcyPQFaDjTB6VpWvNxQsCgYEAjgzyNYF2PZ37fTBFW3Nd\naVCApXfDCfWd+2aUORYn9r1QTHkyt+WHkF/j62eFu64O5fC9mxsGR2JzA7aCEqMJ\nn+hTVIFQFWTy7tVdetl6Xi/H/8yZAqX0ctmXRU6H6xBbf0rYIUK/X8mKruvBCBxQ\nj1AGcRQ+otLaiimzIL8M8es=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudvision-v0@aerial-reality-442016-q0.iam.gserviceaccount.com",
+  "client_id": "110382496659164904481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudvision-v0%40aerial-reality-442016-q0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
